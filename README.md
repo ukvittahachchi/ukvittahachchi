@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukvittahachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ukvittahachchi" /> </p>
 
-- 🔭 I’m currently working on [UK-Finance App](https://github.com/ukvittahachchi/UK-Finance)
+- 🔭 I’m currently working on [Small Tea Plantation Management System](https://github.com/ukvittahachchi/Small-Tea-Plantation-Management-System)
 
 - 🌱 I’m currently learning **.NET Core to enhance my backend development skills**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/umindu-kethaka-5b828133a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umindu kethaka" height="30" width="40" /></a>
-<a href="https://www.facebook.com/umindu.kethaka.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umindu kethaka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@UminduKethaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umindu kethaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umindu kethaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umindu kethaka" height="30" width="40" /></a>
+<a href="https://fb.com/umindu kethaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umindu kethaka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/umindu kethaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umindu kethaka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
