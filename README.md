@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukvittahachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ukvittahachchi" /> </p>
 
-- 🔭 I’m currently working on [Small Tea Plantation Management System](https://github.com/ukvittahachchi/Small-Tea-Plantation-Management-System)
+- 🔭 I’m currently working on [Academic Management System](https://github.com/ukvittahachchi/academic-management-system)
 
 - 🌱 I’m currently learning **.NET Core to enhance my backend development skills**
 
